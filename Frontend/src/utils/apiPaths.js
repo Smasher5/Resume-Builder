@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://localhost:3000/'
+export const BASE_URL = '/'
 
 // Routes used for Frontend
 export const API_PATHS = {
@@ -22,3 +22,4 @@ export const API_PATHS = {
     }
 
 }
+
