@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://localhost:3000'
+export const BASE_URL = 'http://localhost:3000/'
 
 // Routes used for Frontend
 export const API_PATHS = {
@@ -20,4 +20,5 @@ export const API_PATHS = {
     image: {
         UPLOAD_IMAGE: '/api/auth/upload-image'
     }
+
 }
