@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://resume-builder-api.onrender.com'
+export const BASE_URL = 'https://resume-builder-y6qh.onrender.com'
 
 // Routes used for Frontend
 export const API_PATHS = {
@@ -22,3 +22,4 @@ export const API_PATHS = {
     }
 
 }
+
