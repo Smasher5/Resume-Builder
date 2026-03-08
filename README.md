@@ -44,3 +44,59 @@ A full-stack **Resume Builder Web Application** that allows users to create, edi
 
 <details>
 <summary>📁 Project Structure</summary>
+Resume-Builder
+│
+├── backend
+│ ├── config
+│ ├── controllers
+│ ├── middleware
+│ ├── models
+│ ├── routes
+│ └── server.js
+│
+├── frontend
+│ ├── src
+│ │ ├── components
+│ │ ├── pages
+│ │ ├── utils
+│ │ └── context
+│ └── vite.config.j
+
+
+</details>
+
+---
+
+<details>
+<summary>⚙️ Backend Setup</summary>
+
+Clone the repository:
+git clone https://github.com/MadhavGera/Resume-Builder.git
+
+cd Resume-Builder/backend
+
+
+</details>
+
+---
+
+<details>
+<summary>📈 Future Improvements</summary>
+
+- Resume templates
+- PDF export
+- Drag and drop resume sections
+- AI resume suggestions
+- ATS optimized resumes
+
+</details>
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository  
+2. Create a feature branch  
+## 📄 License
+
+This project is licensed under the **MIT License**.
